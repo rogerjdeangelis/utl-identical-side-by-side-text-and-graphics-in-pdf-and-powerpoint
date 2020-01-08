@@ -29,7 +29,11 @@ Identical side by side text and graphics in pdf and powerpoint
      \ V  V /| |_) \__ \                                                                                                                
       \_/\_/ | .__/|___/                                                                                                                
              |_|                                                                                                                        
-    ;                                                                                                                                   
+    ;   
+    
+      It is worth noting that SAS map datasets are copyrighted and it is prudent for WPS to provide its own map datasets.
+    I suspect WPS has more map datasets than just France.wpd.
+
                                                                                                                                         
     In all fairness 'proc odstext' is a relatively new SAS proc and WPS may not have                                                    
     had time to study the syntax.                                                                                                       
